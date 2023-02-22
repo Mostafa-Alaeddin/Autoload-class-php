@@ -29,7 +29,9 @@
 
 > $ `composer dump_autoload -o`
 
-> $ `php index.php` or you want to see web browser  `<a href="localhost:9000">localhost:9000</a>`
+>  Powershell : `php index.php`
+> 
+>  Web Browser :  <a href="localhost:9000">localhost:9000</a>
 
 -------------------------------------------------
 #### Email :  <a href="mailto:mostafa.alaeddin@outlook.de">Mostafa Alaeddin</a>
