@@ -19,5 +19,17 @@
 - This is the original source `/src/`
 - Classes are located in this section `/src/app/`
 ----------------------------------------------------
+### Enter these commands after cloning the project
 
+> $ `docker-compose up -d --build`
+
+> $ `docker ps`
+
+> $ `docker exec -it `CONTAINER ID` bash`
+
+> $ `composer dump_autoload -o`
+
+> $ `php index.php` or you want to see web browser  `<a href="localhost:9000">localhost:9000</a>`
+
+-------------------------------------------------
 #### Email :  <a href="mailto:mostafa.alaeddin@outlook.de">Mostafa Alaeddin</a>
