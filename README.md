@@ -1,7 +1,8 @@
- ##This mini project for autoload class in directory
+ ##T his mini project for autoload class in directory
  
+
 ----------------------------------------------------
-----------------------------------------------------
+
 ### Web server and platform, Programming language, Dependencies : 
 - [X] Docker
   - Apache
