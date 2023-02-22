@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "files": [
+      "App/*.php",
+      "src/index.php"
+    ]
+  }
+}
