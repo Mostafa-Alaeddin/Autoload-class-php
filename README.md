@@ -1,4 +1,4 @@
- ##T his mini project for autoload class in directory
+ ## This mini project for autoload class in directory
  
 
 ----------------------------------------------------
