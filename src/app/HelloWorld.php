@@ -4,8 +4,11 @@
 
     class HelloWorld
     {
-        public function __invoke()
+        /**
+         * @return string
+         */
+        public function __invoke(): string
         {
-            echo "Hello World !";
+            return "Hello World !";
         }
     }
